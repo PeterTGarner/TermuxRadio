@@ -9,7 +9,7 @@ Installation:
 1. Download and copy to a location of your choice;
 2. Make sure the path for "bash" is correct for your system
 
-Usage: 
+Usage:   
 radio.sh for continuous play or                                  
 radio.sh n  where 'n' is the number of minutes to play for. E,g radio.sh 45
    plays your chosen stream for 45 minutex

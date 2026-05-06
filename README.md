@@ -11,5 +11,5 @@ radio.sh for continuous play or
 radio.sh n  where 'n' is the number of minutes to play for. E,g radio.sh 45
  plays your chosen stream for 45 minutex.
                                                                       
-Ctl-C will end the current stream abd bring you back to the menu
+Ctl-C will end the current stream and bring you back to the menu
 Works for me; YMMV ;)

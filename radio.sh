@@ -3,7 +3,7 @@
 #
 # Sinple Internet radio stream player for Termux.
 #
-# Uses Whiprail for menuing
+# Uses Whiptail for menuing
 # Uses mpv for playing the media
 # 
 # usage: radio.sh for continuous play or

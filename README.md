@@ -6,7 +6,7 @@ apps. Plays nicely with Termux.
 Uses whiptail for menuing - should be installed by default                            Uses mpv for playing the media                                          
 
 Installation:  
-1. Download and cooy to a location of your choice;
+1. Download and copy to a location of your choice;
 2. Make sure the path for "bash" is correct for your system
 
 Usage: 

@@ -1,4 +1,4 @@
-Sinple Internet radio stream player for Termux/Other Linx                        
+Sinple Internet radio stream player for Termux/Other Linux                    
 
 I developed this because Android "helpfully" kept killing my radio stream 
 apps. Plays nicely with Termux. 
